@@ -1,3 +1,3 @@
 # Abhyasa
 Explorations
-Exploring interesting ML in Python
+Exploring interesting ML algos in Python
